@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.b78742ac.chunk.js",
-    "main.js.map": "/static/js/main.b78742ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0eeb7ab2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0eeb7ab2.js.map",
-    "static/js/2.77989c1b.chunk.js": "/static/js/2.77989c1b.chunk.js",
-    "static/js/2.77989c1b.chunk.js.map": "/static/js/2.77989c1b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.77989c1b.chunk.js.LICENSE.txt": "/static/js/2.77989c1b.chunk.js.LICENSE.txt"
+    "main.js": "/car-cards/static/js/main.b78742ac.chunk.js",
+    "main.js.map": "/car-cards/static/js/main.b78742ac.chunk.js.map",
+    "runtime-main.js": "/car-cards/static/js/runtime-main.2859ce3b.js",
+    "runtime-main.js.map": "/car-cards/static/js/runtime-main.2859ce3b.js.map",
+    "static/js/2.77989c1b.chunk.js": "/car-cards/static/js/2.77989c1b.chunk.js",
+    "static/js/2.77989c1b.chunk.js.map": "/car-cards/static/js/2.77989c1b.chunk.js.map",
+    "index.html": "/car-cards/index.html",
+    "static/js/2.77989c1b.chunk.js.LICENSE.txt": "/car-cards/static/js/2.77989c1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0eeb7ab2.js",
+    "static/js/runtime-main.2859ce3b.js",
     "static/js/2.77989c1b.chunk.js",
     "static/js/main.b78742ac.chunk.js"
   ]
